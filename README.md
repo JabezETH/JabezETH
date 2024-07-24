@@ -11,14 +11,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1j8pq-8OFKE6rTKe7sHj83lc5MUvLPDty/view?usp=sharing](https://drive.google.com/file/d/1j8pq-8OFKE6rTKe7sHj83lc5MUvLPDty/view?usp=sharing)
 
-<h3 align="center">My Top Projects </h3>
-[Semantic-Image-and-Text-Alignment](https://github.com/JabezETH/Semantic-Image-and-Text-Alignment)
-[Contract-Advisor-RAG](https://github.com/JabezETH/Contract-Advisor-RAG)
-[Logistic-optimization](https://github.com/JabezETH/Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-)
-[Precision-RAG](https://github.com/JabezETH/Precision-RAG)
-[Crypto-Trading-Engineering](https://github.com/JabezETH/Crypto-Trading-Engineering)
-[redash-chatbot-add-on](https://github.com/JabezETH/redash-chatbot-add-on)
-- 
+<h3 align="center">My Top Projects</h3>
+
+1. [Semantic-Image-and-Text-Alignment](https://github.com/JabezETH/Semantic-Image-and-Text-Alignment)
+2. [Contract-Advisor-RAG](https://github.com/JabezETH/Contract-Advisor-RAG)
+3. [Logistic-optimization](https://github.com/JabezETH/Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-)
+4. [Precision-RAG](https://github.com/JabezETH/Precision-RAG)
+5. [Crypto-Trading-Engineering](https://github.com/JabezETH/Crypto-Trading-Engineering)
+6. [redash-chatbot-add-on](https://github.com/JabezETH/redash-chatbot-add-on)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//jabez-kassa-37b743193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jabez-kassa-37b743193" height="30" width="40" /></a>
