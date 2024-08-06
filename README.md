@@ -14,11 +14,27 @@
 <h3 align="center">My Top Projects</h3>
 
 1. [Semantic-Image-and-Text-Alignment](https://github.com/JabezETH/Semantic-Image-and-Text-Alignment)
+- Developed an advertising frame that achieves a high engagement rate and click-through rate, utilizing the
+provided images and text that will comprise the advertising frame. Accomplished by leveraging computer
+vision techniques and an AI multi-agent framework called Autogen.
 2. [Contract-Advisor-RAG](https://github.com/JabezETH/Contract-Advisor-RAG)
+- Retrieval Augmented Generation (RAG) system with different strategies including a simple RAG approach,
+  a multi-query approach, and using AutoGen. Evaluation using RAGAS.
+- Build Contractor Advisory Bot using React for frontend and Flask API in the backend
 3. [Logistic-optimization](https://github.com/JabezETH/Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-)
+- Used the CausalNex library to uncover the structural relationships in environmental factors like weather and holidays, as well as the day of the week (weekday vs. weekend) 
+  and the distance between the customer and driver locations.
+- Also used DoWhy library to estimate causal effects, quantify causal influence, and perform root cause analysis. 
 4. [Precision-RAG](https://github.com/JabezETH/Precision-RAG)
+- An automatic prompt generating system. By leveraging a Retrieval-Augmented Generation (RAG) pipeline, the system is able to generate high-quality prompts based on the 
+  user's query.
+- Improves context retrieval by generating alternative prompts on top of the user's original question. And evaluated the generated prompts.
 5. [Crypto-Trading-Engineering](https://github.com/JabezETH/Crypto-Trading-Engineering)
+- Conducted backtesting and applied modern portfolio theory, 
+- Used Moirai-1.0-R-large and Chronos models to handle time series forecasting tasks.
 6. [redash-chatbot-add-on](https://github.com/JabezETH/redash-chatbot-add-on)
+-	Build a novel Redash chat add-on that extract insights from multiple Redash dashboards and connected databases using natural language. 
+-	Used Langchain frame work with OpenAI API to build the chatbot 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
