@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jabez Kassa</h1>
 <h3 align="center">A passionate Generative AI Engineer</h3>
 
-- 🔭 I’m currently working on [Semantic-Image-and-Text-Alignment](https://github.com/JabezETH/Semantic-Image-and-Text-Alignment)
+- 🔭 I’m currently working on [Legal Assistant Multi Agent](https://github.com/JabezETH/Semantic-Image-and-Text-Alignment)
 
 - 👨‍💻 My projects are available at [https://sites.google.com/view/jabezkassa/home?authuser=0](https://sites.google.com/view/jabezkassa/home?authuser=0)
 
