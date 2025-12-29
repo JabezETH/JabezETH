@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jabezkassa2022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j8pq-8OFKE6rTKe7sHj83lc5MUvLPDty/view?usp=sharing](https://drive.google.com/file/d/1j8pq-8OFKE6rTKe7sHj83lc5MUvLPDty/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn link](https://www.linkedin.com/in/jabez-kassa-37b743193/)
 
 <h3 align="center">My Top Projects</h3>
 
